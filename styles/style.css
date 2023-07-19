@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    max-width: 1326px;
+}
+
+*{font-family: 'Work Sans', sans-serif;}
+
+/*nav*/
+nav{
+ height: 600px ;
+ background-color: rgb(157, 7, 216);
+}
